@@ -1,0 +1,58 @@
+name: PDF → Markdown Conversion
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_back:
+        description: "Commit generated md/ files back to the branch"
+        type: boolean
+        default: true
+  push:
+    paths:
+      - "**.pdf"
+      - "**.PDF"
+      - "tools/pdf_to_md/**"
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r tools/pdf_to_md/requirements.txt
+
+      - name: Run PDF → Markdown converter
+        run: python tools/pdf_to_md/convert.py
+
+      - name: Upload md/ as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: converted-markdown
+          path: md/
+          if-no-files-found: warn
+
+      - name: Commit generated Markdown back to branch
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.commit_back == true }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add md/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: regenerate md/ from PDFs [skip ci]"
+            git push
+          fi

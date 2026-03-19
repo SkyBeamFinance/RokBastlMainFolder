@@ -1,0 +1,2 @@
+# This directory contains Markdown files generated from the PDFs in this repository.
+# Run `python tools/pdf_to_md/convert.py` (from the repo root) to populate it.
