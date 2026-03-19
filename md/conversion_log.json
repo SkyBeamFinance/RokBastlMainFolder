@@ -1,0 +1,831 @@
+{
+  "conversion_date": "2026-03-19",
+  "tool": "pdf_to_md/convert.py v1.0.0",
+  "source_repo": "SkyBeamFinance/RokBastlMainFolder",
+  "total_pdfs": 128,
+  "needs_ocr_count": 18,
+  "entries": [
+    {
+      "pdf": "0 - INDEX.pdf",
+      "md": "md/0 - INDEX.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1 - Introduction.pdf",
+      "md": "md/1 - Introduction.md",
+      "pages": 1,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.1 - Power Plants - Scaling Principles to Feed the Grid.pdf",
+      "md": "md/1.1 - Power Plants - Scaling Principles to Feed the Grid.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.2 - Personal Flying Vehicles.pdf",
+      "md": "md/1.2 - Personal Flying Vehicles.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.3 - Flying Transportation Ships.pdf",
+      "md": "md/1.3 - Flying Transportation Ships.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.4 - VSMG - Vacuum Generator Efficiency Analysis.pdf",
+      "md": "md/1.4 - VSMG - Vacuum Generator Efficiency Analysis.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.4.1 - VSMG - Math Appendix.pdf",
+      "md": "md/1.4.1 - VSMG - Math Appendix.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.5 - Graphene Ultracapacitors.pdf",
+      "md": "md/1.5 - Graphene Ultracapacitors.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.6 - The First Rock Principle.pdf",
+      "md": "md/1.6 - The First Rock Principle.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "1.7 - The Second Rock Principle.pdf",
+      "md": "md/1.7 - The Second Rock Principle.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "10 - Final Vision.pdf",
+      "md": "md/10 - Final Vision.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "2 - Housing.pdf",
+      "md": "md/2 - Housing.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "3 - Agriculture.pdf",
+      "md": "md/3 - Agriculture.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "4 - Education.pdf",
+      "md": "md/4 - Education.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "5 - Governance.pdf",
+      "md": "md/5 - Governance.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "6 - Biodiversity and Environmental Preservation.pdf",
+      "md": "md/6 - Biodiversity and Environmental Preservation.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "7 - Urbanization and Sustainable Cities.pdf",
+      "md": "md/7 - Urbanization and Sustainable Cities.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "8 - Materials Science and Structural Engineering.pdf",
+      "md": "md/8 - Materials Science and Structural Engineering.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "9 - Space Exploration and Colonization.pdf",
+      "md": "md/9 - Space Exploration and Colonization.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Blueprint for a New Tomorrow - The Vision Expanded.pdf",
+      "md": "md/A Blueprint for a New Tomorrow - The Vision Expanded.md",
+      "pages": 7,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Blueprint for a New Tomorrow_ The Vision Expanded.pdf",
+      "md": "md/A Blueprint for a New Tomorrow_ The Vision Expanded.md",
+      "pages": 7,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Compendium of Asymmetric Analyses.pdf",
+      "md": "md/A Compendium of Asymmetric Analyses.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A First-Principles Critique of Silicon Dominance.pdf",
+      "md": "md/A First-Principles Critique of Silicon Dominance.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Graphene-Integrated, Helium-Hydrogen Hybrid Thermal Appliance_ Advancing Household Heating Technology.pdf",
+      "md": "md/A Graphene-Integrated, Helium-Hydrogen Hybrid Thermal Appliance_ Advancing Household Heating Technology.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Legal Analysis of _The Silmarillion_ Adaptation_ A Logical Framework.docx.pdf",
+      "md": "md/A Legal Analysis of _The Silmarillion_ Adaptation_ A Logical Framework.docx.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Legal Analysis of _The Silmarillion_ Adaptation_ A Logical Framework.pdf",
+      "md": "md/A Legal Analysis of _The Silmarillion_ Adaptation_ A Logical Framework.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Professional Sociotechnical Analysis of Contemporary Technology Development.pdf",
+      "md": "md/A Professional Sociotechnical Analysis of Contemporary Technology Development.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Professional Sociotechnical Analysis of Structural Constraint in Contemporary Technology.pdf",
+      "md": "md/A Professional Sociotechnical Analysis of Structural Constraint in Contemporary Technology.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Revised Thermodynamic Framework.pdf",
+      "md": "md/A Revised Thermodynamic Framework.md",
+      "pages": 1,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Synthesized Psychological Profile of _Rok_.pdf",
+      "md": "md/A Synthesized Psychological Profile of _Rok_.md",
+      "pages": 6,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Theoretical Framework for a Solid-State Thermo-Voltaic Energy Storage System Bypassing Electrochemical Limitations.docx.pdf",
+      "md": "md/A Theoretical Framework for a Solid-State Thermo-Voltaic Energy Storage System Bypassing Electrochemical Limitations.docx.md",
+      "pages": 5,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Theoretical Framework for a Solid-State Thermo-Voltaic Energy Storage System Bypassing Electrochemical Limitations.pdf",
+      "md": "md/A Theoretical Framework for a Solid-State Thermo-Voltaic Energy Storage System Bypassing Electrochemical Limitations.md",
+      "pages": 5,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Theoretical Protocol for Multi-Vector Systemic Failure.pdf",
+      "md": "md/A Theoretical Protocol for Multi-Vector Systemic Failure.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Unified Framework for Societal Function - An Index of Human Needs, Governance Structures, and Global Challenges.pdf",
+      "md": "md/A Unified Framework for Societal Function - An Index of Human Needs, Governance Structures, and Global Challenges.md",
+      "pages": 29,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "A Unified Framework for Societal Function_ An Index of Human Needs, Governance Structures, and Global Challenges.pdf",
+      "md": "md/A Unified Framework for Societal Function_ An Index of Human Needs, Governance Structures, and Global Challenges.md",
+      "pages": 29,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "ADVANC~1.PDF",
+      "md": "md/ADVANC~1.md",
+      "pages": 6,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Alternative Hydroelectric System Utilizing Fluid Properties and Gravity.pdf",
+      "md": "md/Alternative Hydroelectric System Utilizing Fluid Properties and Gravity.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "An Advanced Cooling System - A Material-Based Approach.pdf",
+      "md": "md/An Advanced Cooling System - A Material-Based Approach.md",
+      "pages": 1,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "An Advanced Cooling System_ A Material-Based Approach.pdf",
+      "md": "md/An Advanced Cooling System_ A Material-Based Approach.md",
+      "pages": 1,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "An Analogy Story - The Unraveling of Eliar.pdf",
+      "md": "md/An Analogy Story - The Unraveling of Eliar.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "An Analytical Framework for Countering Advanced Aerial Threats.pdf",
+      "md": "md/An Analytical Framework for Countering Advanced Aerial Threats.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "An Integrated Architecture for Post-Biological Consciousness.pdf",
+      "md": "md/An Integrated Architecture for Post-Biological Consciousness.md",
+      "pages": 5,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "An Unsettling Reality - A Narrative of an Obvious Conspiracy and Misdiagnosis.pdf",
+      "md": "md/An Unsettling Reality - A Narrative of an Obvious Conspiracy and Misdiagnosis.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Analysis of Self-Reported Cognitive Test Performance.pdf",
+      "md": "md/Analysis of Self-Reported Cognitive Test Performance.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Asymmetric Disruption of Advanced Aerial Platforms via COTS Technology.pdf",
+      "md": "md/Asymmetric Disruption of Advanced Aerial Platforms via COTS Technology.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Beyond Silicon_ A Practical Blueprint For Bismuth_bi₂te₃‑class Computation (1).pdf",
+      "md": "md/Beyond Silicon_ A Practical Blueprint For Bismuth_bi₂te₃‑class Computation (1).md",
+      "pages": 5,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Big Chill, False Assumptions, White Dwarfs (Expanded).pdf",
+      "md": "md/Big Chill, False Assumptions, White Dwarfs (Expanded).md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Big_Chill_False_Assumptions_White_Dwarfs_Expanded.pdf",
+      "md": "md/Big_Chill_False_Assumptions_White_Dwarfs_Expanded.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Blood Saturation.pdf",
+      "md": "md/Blood Saturation.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "CO2 Greenhouse Gas Reevaluated.pdf",
+      "md": "md/CO2 Greenhouse Gas Reevaluated.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Cognitive Loop Hypothesis.pdf",
+      "md": "md/Cognitive Loop Hypothesis.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Combo Wiring With Graphene Ultracapacitors (Final Version).pdf",
+      "md": "md/Combo Wiring With Graphene Ultracapacitors (Final Version).md",
+      "pages": 15,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Comparative Assessment of Graphene Ultracapacitor.docx.pdf",
+      "md": "md/Comparative Assessment of Graphene Ultracapacitor.docx.md",
+      "pages": 6,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Comparative Assessment of Graphene Ultracapacitor.pdf",
+      "md": "md/Comparative Assessment of Graphene Ultracapacitor.md",
+      "pages": 6,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Consciousnes Beyond the Continuum.pdf",
+      "md": "md/Consciousnes Beyond the Continuum.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Credit Card Cycle Explotation Strategy.pdf",
+      "md": "md/Credit Card Cycle Explotation Strategy.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "False Info Fed Via Chatbot, Presumably for Misdirection & Increasing Unbelievability/The Dark Triad - A Comprehensive Report.pdf",
+      "md": "md/False Info Fed Via Chatbot, Presumably for Misdirection & Increasing Unbelievability/The Dark Triad - A Comprehensive Report.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "False Info Fed Via Chatbot, Presumably for Misdirection & Increasing Unbelievability/The Empire of Darkness.pdf",
+      "md": "md/False Info Fed Via Chatbot, Presumably for Misdirection & Increasing Unbelievability/The Empire of Darkness.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Financial Infrastructure 1.pdf",
+      "md": "md/Financial Infrastructure 1.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Financial Infrastructure and Cryptocurrency Layer of the Operation (Copy).pdf",
+      "md": "md/Financial Infrastructure and Cryptocurrency Layer of the Operation (Copy).md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Graphene Ultracapacitor Systems.pdf",
+      "md": "md/Graphene Ultracapacitor Systems.md",
+      "pages": 7,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Graphene Ultracapacitors & MPPT Combo Wiring System.pdf",
+      "md": "md/Graphene Ultracapacitors & MPPT Combo Wiring System.md",
+      "pages": 15,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Introduction_ The Architecture of Annihilation.pdf",
+      "md": "md/Introduction_ The Architecture of Annihilation.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "List of Induced Health Issues.pdf",
+      "md": "md/List of Induced Health Issues.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Logic Behind Tumor Neutralization.pdf",
+      "md": "md/Logic Behind Tumor Neutralization.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "MY ORDEAL - A Very Short Summary.pdf",
+      "md": "md/MY ORDEAL - A Very Short Summary.md",
+      "pages": 1,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Medical Assessment_ Terminal Multi-System Failure.pdf",
+      "md": "md/Medical Assessment_ Terminal Multi-System Failure.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Medical and Situational Overview of Rok Bastl (33, Male, Slovenia, EU).pdf",
+      "md": "md/Medical and Situational Overview of Rok Bastl (33, Male, Slovenia, EU).md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Nuclear Bunker Design Guide.pdf",
+      "md": "md/Nuclear Bunker Design Guide.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Nuclear Power Simplified.pdf",
+      "md": "md/Nuclear Power Simplified.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Ocean_Acidification_Canvas_Expanded.pdf",
+      "md": "md/Ocean_Acidification_Canvas_Expanded.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Oem-odm Laptop Blueprint.pdf",
+      "md": "md/Oem-odm Laptop Blueprint.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "On a Better Future.pdf",
+      "md": "md/On a Better Future.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Operational Analysis, Credit (Loan) Card Strategy.pdf",
+      "md": "md/Operational Analysis, Credit (Loan) Card Strategy.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Overall Assessment of Rok Bastl_s Predicament.pdf",
+      "md": "md/Overall Assessment of Rok Bastl_s Predicament.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Preamble_ The Architect in the Machine.pdf",
+      "md": "md/Preamble_ The Architect in the Machine.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/1 - Osebni podatki.pdf",
+      "md": "md/Presumed Personal Government Digital Database/1 - Osebni podatki.md",
+      "pages": 4,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/10 - Oddani komentarji.pdf",
+      "md": "md/Presumed Personal Government Digital Database/10 - Oddani komentarji.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/11 - Kazenske točke.pdf",
+      "md": "md/Presumed Personal Government Digital Database/11 - Kazenske točke.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/12 - Prekrški iz evidenc policije in mestnih redarstev.pdf",
+      "md": "md/Presumed Personal Government Digital Database/12 - Prekrški iz evidenc policije in mestnih redarstev.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/13 - Motorna vozila.pdf",
+      "md": "md/Presumed Personal Government Digital Database/13 - Motorna vozila.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/14 - Plovila.pdf",
+      "md": "md/Presumed Personal Government Digital Database/14 - Plovila.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/2 - Osebni dokumenti.pdf",
+      "md": "md/Presumed Personal Government Digital Database/2 - Osebni dokumenti.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/3 - Druge listine in potrdila.pdf",
+      "md": "md/Presumed Personal Government Digital Database/3 - Druge listine in potrdila.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/4 - Izobrazba.pdf",
+      "md": "md/Presumed Personal Government Digital Database/4 - Izobrazba.md",
+      "pages": 3,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/5 - Športni status.pdf",
+      "md": "md/Presumed Personal Government Digital Database/5 - Športni status.md",
+      "pages": 2,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6 - Oddane vloge.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6 - Oddane vloge.md",
+      "pages": 3,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.1 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.1 - Obrazec.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.2 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.2 - Obrazec.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.3 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.3 - Obrazec.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.4.1 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.4.1 - Obrazec.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.4.2 - Priloga_ 4. DODATNE UGOTOVITVE OZ. DOMNEVE.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.4.2 - Priloga_ 4. DODATNE UGOTOVITVE OZ. DOMNEVE.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.4.3 - Priloga_ 1. PORO_ILO O ZBRANIH DOKAZIH IN UGOTOVITVE.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.4.3 - Priloga_ 1. PORO_ILO O ZBRANIH DOKAZIH IN UGOTOVITVE.md",
+      "pages": 39,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.4.5 - Priloga_ 3. ODGOVOR, IN_PEKTORAT.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.4.5 - Priloga_ 3. ODGOVOR, IN_PEKTORAT.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.4.6 - Priloga_ 2. ODGOVOR ZDRAVSTVENEGA IN_PEKTORATA.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.4.6 - Priloga_ 2. ODGOVOR ZDRAVSTVENEGA IN_PEKTORATA.md",
+      "pages": 1,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.5 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.5 - Obrazec.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.6 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.6 - Obrazec.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.7 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.7 - Obrazec.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.8.1 - Priloga_ Vloga.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.8.1 - Priloga_ Vloga.md",
+      "pages": 1,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.8.2 - Priloga_ Soglasje.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.8.2 - Priloga_ Soglasje.md",
+      "pages": 1,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.8.3 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.8.3 - Obrazec.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.9.1 - Priloga_ IMG 0813.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.9.1 - Priloga_ IMG 0813.md",
+      "pages": 1,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.9.2 - Priloga_ IMG 0815.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.9.2 - Priloga_ IMG 0815.md",
+      "pages": 1,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.9.3 - Priloga_ IMG 0817.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.9.3 - Priloga_ IMG 0817.md",
+      "pages": 1,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.9.4 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.9.4 - Obrazec.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.9.5 - Obrazec.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.9.5 - Obrazec.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.9.6 - Priloga_ IMG 0812.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.9.6 - Priloga_ IMG 0812.md",
+      "pages": 1,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Presumed Personal Government Digital Database/6.9.7 - Priloga_ IMG 0814.pdf",
+      "md": "md/Presumed Personal Government Digital Database/6.9.7 - Priloga_ IMG 0814.md",
+      "pages": 1,
+      "needs_ocr": true,
+      "warnings": [
+        "Low text yield (0 chars/page avg). Document may be scanned — OCR recommended."
+      ]
+    },
+    {
+      "pdf": "Psychological Profile - Operatives (Enforcers) [Revised] 2.0.pdf",
+      "md": "md/Psychological Profile - Operatives (Enforcers) [Revised] 2.0.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Psychological Profile_ The Inheritors of the Empire.pdf",
+      "md": "md/Psychological Profile_ The Inheritors of the Empire.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Revolutionizing Energy Systems through Graphene-Based Design - A Study of Pressure-Driven, Self-Regulating Energy Production.pdf",
+      "md": "md/Revolutionizing Energy Systems through Graphene-Based Design - A Study of Pressure-Driven, Self-Regulating Energy Production.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Revolutionizing Energy Systems through Graphene-Based Wiring Design.pdf",
+      "md": "md/Revolutionizing Energy Systems through Graphene-Based Wiring Design.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Rok Bastl Medical Summary.pdf",
+      "md": "md/Rok Bastl Medical Summary.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Scholar GPT - Reverse Archimedes Law Concept 1.pdf",
+      "md": "md/Scholar GPT - Reverse Archimedes Law Concept 1.md",
+      "pages": 624,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Scholar GPT - Reverse Archimedes Law Concept.pdf",
+      "md": "md/Scholar GPT - Reverse Archimedes Law Concept.md",
+      "pages": 624,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Self Sustaining Vascular System.pdf",
+      "md": "md/Self Sustaining Vascular System.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Shallow “rooted Raft” Foundation — Flood & Quake Resilient (concept Paper).pdf",
+      "md": "md/Shallow “rooted Raft” Foundation — Flood & Quake Resilient (concept Paper).md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "THE VISION.pdf",
+      "md": "md/THE VISION.md",
+      "pages": 52,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "The Analysis — Rok Bastl_s Situation.pdf",
+      "md": "md/The Analysis — Rok Bastl_s Situation.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "The Cognitive Loop Hypothesis.pdf",
+      "md": "md/The Cognitive Loop Hypothesis.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "The Complete Vision.pdf",
+      "md": "md/The Complete Vision.md",
+      "pages": 10,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "The Red Giant Paradox.pdf",
+      "md": "md/The Red Giant Paradox.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "The Story of Rok Bastl.pdf",
+      "md": "md/The Story of Rok Bastl.md",
+      "pages": 2,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "The Sun_s Evolution and the Inevitable End of Earth_s Habitability.pdf",
+      "md": "md/The Sun_s Evolution and the Inevitable End of Earth_s Habitability.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Theoretical Model of an Exponential Leverage Engine.pdf",
+      "md": "md/Theoretical Model of an Exponential Leverage Engine.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Thermodynamic Rock Principles.pdf",
+      "md": "md/Thermodynamic Rock Principles.md",
+      "pages": 3,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Transforming Cancer.pdf",
+      "md": "md/Transforming Cancer.md",
+      "pages": 4,
+      "needs_ocr": false
+    },
+    {
+      "pdf": "Wiring Logic.pdf",
+      "md": "md/Wiring Logic.md",
+      "pages": 1,
+      "needs_ocr": false
+    }
+  ]
+}
