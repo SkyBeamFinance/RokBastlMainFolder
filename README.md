@@ -1,5 +1,8 @@
 # Rok Bastl Main Folder - Comprehensive Knowledge Architecture
 
+> **Quick note:** Licensed **CC BY-NC 4.0** (noncommercial)  see `LICENSE` and `POLICY.md`.  
+> Some folders contain personal/sensitive context; please use discretion. Nothing here is medical advice.
+
 ## Overview
 This repository contains the complete body of work of Rok Bastl—a comprehensive personal knowledge architecture spanning technical innovation, societal design frameworks, and systems analysis.
 
@@ -74,7 +77,7 @@ This repository contains the complete body of work of Rok Bastl—a comprehensiv
 ### Specialized Analysis Documents
 - **A Compendium of Asymmetric Analyses.pdf** - Asymmetric analysis collection
 - **A First-Principles Critique of Silicon Dominance.pdf** - Technology critique
-- **Beyond Silicon_ A Practical Blueprint For Bismuth_bi₂te₃‑class Computation** - Alternative computing
+- **Beyond Silicon_ A Practical Blueprint For Bismuth_bi₂te₃class Computation** - Alternative computing
 - **A Professional Sociotechnical Analysis of Contemporary Technology Development.pdf** - Tech development analysis
 - **A Professional Sociotechnical Analysis of Structural Constraint in Contemporary Technology.pdf** - Constraint analysis
 - **An Analytical Framework for Countering Advanced Aerial Threats.pdf** - Defense analysis
@@ -94,7 +97,7 @@ This repository contains the complete body of work of Rok Bastl—a comprehensiv
 - **An Unsettling Reality - A Narrative of an Obvious Conspiracy and Misdiagnosis.pdf** - Critical analysis
 - **A Theoretical Protocol for Multi-Vector Systemic Failure.pdf** - Failure analysis
 - **Self Sustaining Vascular System.pdf** - Biological systems
-- **Shallow "rooted Raft" Foundation — Flood & Quake Resilient (concept Paper).pdf** - Structural innovation
+- **Shallow "rooted Raft" Foundation  Flood & Quake Resilient (concept Paper).pdf** - Structural innovation
 - **Logic Behind Tumor Neutralization.pdf** - Medical theory
 - **Transforming Cancer.pdf** - Cancer treatment frameworks
 - **Oem-odm Laptop Blueprint.pdf** - Hardware design
