@@ -1,17 +1,29 @@
-# The Ithax Project: A Blueprint for Tomorrow
+# Rok Bastl Main Folder
+## A First-Principles Architecture for Post-Industrial Civilization
 
-This is the README file for The Ithax Project, a blueprint for tomorrow. It includes a comprehensive knowledge architecture for sustainable solutions and technological advancements.
+This repository is not a product, startup, or manifesto.
+It is a systems-level exploration of energy, materials, governance,
+consciousness, and survival under constraint.
 
-## Project Overview
-This project aims to provide detailed insights and frameworks for implementing innovative ideas.
+### How to Read This Repository
+- Start with `0 - INDEX.pdf`
+- Then read `1 - Introduction.pdf`
+- Use the 0–10 framework as a spine, not a sequence
+- Technical documents are self-contained and cross-referenced
 
-## Features
-- Comprehensive knowledge architecture
-- Sustainable solutions
-- Technological advancements
+### What This Is
+- A first-principles research corpus
+- A design framework for resilient civilization
+- A documented attempt to think without institutional constraints
 
-## Getting Started
-Instructions to get started with the project can be found below.
+### What This Is Not
+- Not a political ideology
+- Not a commercial proposal
+- Not a medical prescription
+- Not speculative fiction
 
-## Contribution
-Feel free to contribute to this project by submitting your ideas and enhancements!
+### Status
+This repository is:
+- Partially complete
+- Actively evolving
+- Open to critique, not consensus
