@@ -1,4 +1,4 @@
-# Rok Bastl Main Folder
+# The Ithax Project — A Blueprint for Tomorrow
 ## A First-Principles Architecture for Post-Industrial Civilization
 
 This repository is not a product, startup, or manifesto.
