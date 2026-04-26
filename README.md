@@ -27,3 +27,6 @@ This repository is:
 - Partially complete
 - Actively evolving
 - Open to critique, not consensus
+
+### Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on working with branches, pull requests, and Git terminology used in this repository.
