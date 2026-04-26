@@ -22,6 +22,10 @@ consciousness, and survival under constraint.
 - Not a medical prescription
 - Not speculative fiction
 
+### Tooling References
+The `docs/` folder contains practical tooling guides:
+- [Windows Terminals — Maximum Control](docs/windows-terminals.md) — Best terminal emulators and shells for Windows when you need to override everything (admin elevation, encoding, SSH, serial, WSL, scripting).
+
 ### Status
 This repository is:
 - Partially complete

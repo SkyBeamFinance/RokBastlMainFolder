@@ -8,6 +8,7 @@
 
 ## Computing
  - Covers advancements in computer science, programming, and software development.
+ - [Windows Terminals — Maximum Control Reference](docs/windows-terminals.md) — Best Windows-based terminal emulators and shells for advanced override, forensics, and scripting work.
 
 ## Materials Science
  - Detailed analysis of materials, their properties, and applications in various fields.
