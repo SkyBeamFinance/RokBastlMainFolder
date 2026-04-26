@@ -30,6 +30,14 @@ SOURCE_REPO = "SkyBeamFinance/RokBastlMainFolder"
 # Minimum chars per page to consider text "present" (not needs_ocr)
 OCR_MIN_CHARS_PER_PAGE = 50
 
+# Directory names (relative to repo root) whose contents must never be
+# converted to Markdown.  These folders contain personal / government
+# identity documents that must not be re-published as readable text.
+EXCLUDED_DIRS: set[str] = {
+    "Presumed Personal Government Digital Database",
+    "Personal Predicament",
+}
+
 # Common bullet markers
 BULLET_RE = re.compile(r"^(\s*[-•·▪▸►*+]\s+|\s*\d+[.)]\s+)")
 
@@ -219,8 +227,10 @@ def pdf_to_md(
 
 
 def find_pdfs(repo_root: Path, output_dir: Path) -> list[Path]:
-    """Recursively find all PDF files, excluding the output directory."""
+    """Recursively find all PDF files, excluding the output directory and
+    any directories listed in EXCLUDED_DIRS (privacy/PII protection)."""
     output_dir_resolved = output_dir.resolve()
+    repo_root_resolved = repo_root.resolve()
     pdfs: list[Path] = []
     for p in sorted(repo_root.rglob("*")):
         if p.suffix.lower() == ".pdf" and p.is_file():
@@ -230,6 +240,11 @@ def find_pdfs(repo_root: Path, output_dir: Path) -> list[Path]:
                 continue  # it's inside output_dir, skip
             except ValueError:
                 pass
+            # Exclude directories that contain personal/sensitive documents
+            rel_parts = p.resolve().relative_to(repo_root_resolved).parts
+            if any(part in EXCLUDED_DIRS for part in rel_parts):
+                print(f"  [skipped – excluded dir] {p.relative_to(repo_root)}")
+                continue
             pdfs.append(p)
     return pdfs
 
