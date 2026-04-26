@@ -13,3 +13,6 @@ This file serves as an index of significant documents related to materials and c
 
 4. **Oem-odm Laptop Blueprint.pdf**  
    This blueprint outlines a reference design for OEM and ODM laptop manufacturers, highlighting key materials and computing considerations for optimizing performance and sustainability.
+
+5. **[Windows-11-Like-Environment-Guide.md](Windows-11-Like-Environment-Guide.md)**  
+   A practical guide covering legitimate approaches to running or experiencing a Windows 11 Pro-like environment on macOS and Android devices: virtual machines (Parallels, UTM, VMware Fusion, VirtualBox), cloud desktops (Windows 365, Azure Virtual Desktop, Shadow PC), Windows-style UI launchers, and provisioning automation (Packer, Ansible, Chocolatey). Includes setup steps, recommended tools, links, and an explicit summary of legal constraints around distributing Windows images.

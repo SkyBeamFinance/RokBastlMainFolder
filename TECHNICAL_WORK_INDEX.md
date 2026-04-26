@@ -8,6 +8,7 @@
 
 ## Computing
  - Covers advancements in computer science, programming, and software development.
+ - See also: **[Windows-11-Like-Environment-Guide](Technical/Materials_Computing/Windows-11-Like-Environment-Guide.md)** — legitimate approaches to running a Windows 11 Pro-like environment on macOS and Android (VMs, cloud desktops, UI themes, provisioning scripts).
 
 ## Materials Science
  - Detailed analysis of materials, their properties, and applications in various fields.
