@@ -1,0 +1,46 @@
+# ── Python / tooling ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ── Sensitive / personal documents ────────────────────────────────────────────
+# These directories contain personally-identifiable government documents.
+# They should NOT be present in this repository at all; if accidentally
+# staged, Git will refuse to track them once this ignore rule is in effect.
+# If they already exist in history, follow the purge steps in SECURITY.md.
+Presumed Personal Government Digital Database/
+Personal Predicament/
+
+# Common credential / secret file patterns – never commit these.
+.env
+.env.*
+*.secret
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Archives that may contain sensitive data
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+eUprava.zip
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/

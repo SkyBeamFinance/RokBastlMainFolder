@@ -1,0 +1,15 @@
+# CODEOWNERS — require review from the repository owner before any changes
+# to security-critical files can be merged.
+#
+# GitHub docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Workflow definitions — changes here can execute arbitrary code in CI.
+.github/workflows/         @SkyBeamProject
+
+# Conversion tooling — changes here run during every PDF push.
+tools/pdf_to_md/           @SkyBeamProject
+
+# Security and policy documents.
+SECURITY.md                @SkyBeamProject
+POLICY.md                  @SkyBeamProject
+LICENSE                    @SkyBeamProject
