@@ -27,3 +27,6 @@ This repository is:
 - Partially complete
 - Actively evolving
 - Open to critique, not consensus
+
+### Reference Documents
+- [Notable open-source web browsers on GitHub](docs/notable-browsers-on-github.md)
